@@ -17,7 +17,7 @@ An interactive scrolling web comic covering the history of the United Arab Emira
 - Source: [comm-lab-comic](https://github.com/maazahmedd/comm-lab-comic)
 
 ### Mental Health Oasis
-An auditive safe space inspired by the animated documentary *My Depression*. Four animated landscapes tied together by a narrator's reflections on mental health, designed to let users disconnect from noise and focus on the sounds of nature. Built with Thais Alvarenga, Kyle Adams, and [Manuel Rodriguez](https://github.com/juanrozu23).
+An auditive safe space inspired by the animated documentary *My Depression*. Four animated landscapes tied together by a narrator's reflections on mental health, designed to let users disconnect from noise and focus on the sounds of nature. Built with Thais Alvarenga, Kyle Adams, and Juan Manuel Rodriguez.
 - Live: <https://maazahmedd.github.io/mental-health-oasis/>
 - Source: [mental-health-oasis](https://github.com/maazahmedd/mental-health-oasis)
 
