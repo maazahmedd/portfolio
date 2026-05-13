@@ -7,7 +7,7 @@ A personal portfolio site built for NYU Abu Dhabi's **Communications Lab** class
 ## Featured projects
 
 ### Connections — The Movie (30 Minute Film Festival)
-A branding and showcase site for a short film made for NYUAD's 30 Minute Film Festival. The theme was "connections" — how the pandemic reshaped the way we connect with what we love. Built with Kyle Adams and Jeongin Lee.
+A branding and showcase site for a short film made for NYUAD's 30 Minute Film Festival. The theme was "connections": how the pandemic reshaped the way we connect with what we love. Built with Kyle Adams and Jeongin Lee.
 - Live: <https://maazahmedd.github.io/>
 - Source: [maazahmedd.github.io](https://github.com/maazahmedd/maazahmedd.github.io)
 
@@ -17,7 +17,7 @@ An interactive scrolling web comic covering the history of the United Arab Emira
 - Source: [comm-lab-comic](https://github.com/maazahmedd/comm-lab-comic)
 
 ### Mental Health Oasis
-An auditive safe space inspired by the animated documentary *My Depression*. Four animated landscapes tied together by a narrator's reflections on mental health, designed to let users disconnect from noise and focus on the sounds of nature.
+An auditive safe space inspired by the animated documentary *My Depression*. Four animated landscapes tied together by a narrator's reflections on mental health, designed to let users disconnect from noise and focus on the sounds of nature. Built with Thais Alvarenga, Kyle Adams, and [Manuel Rodriguez](https://github.com/juanrozu23).
 - Live: <https://maazahmedd.github.io/mental-health-oasis/>
 - Source: [mental-health-oasis](https://github.com/maazahmedd/mental-health-oasis)
 
